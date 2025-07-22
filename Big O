@@ -1,0 +1,10 @@
+What is Big O ? 
+-> to Answer this first Understand what is good code? 
+A Good Code is 
+1) Readable : generally clean and easy to read/understand 
+2) Scalable : well , Big O Notation is the one which allows us to Measure how scalable is our code , code that can scale.
+
+example you have a recipe to baking a cake , it can be a good instructions which can help make a good cake or they recipe is not the most effecient way. 
+
+just like that a code can be more effecient or not so effecient towards a solution.
+The Big O measures the effecieny of a code.
